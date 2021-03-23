@@ -1,0 +1,48 @@
+body{
+  background-color: #d1c8b6;
+  font-family: 'Poppins', sans-serif;
+  
+}
+
+  p{
+    text-align: left;
+    /* font-style: bold; */
+    margin-left: 0;
+    margin-top: 0;
+    padding-left: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color:whitesmoke;
+    font-size: 20px;
+    font-weight: 500;
+  }
+
+  div{
+    text-align: center;
+  }
+  .work{
+    text-align: center;
+    font-size: 18px;
+    
+
+  }
+  .gohome{
+    text-align: center;
+  
+
+  }
+  a{
+    color: #aa503a;
+    font-weight: 400;
+    
+
+  }
+
+  a:hover{
+    
+    color:white;
+    font-weight: 500;
+    
+  }
+
+
